@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/drawable/circle.xml" value="0.1495" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/drawable/color_state.xml" value="0.1495" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/drawable/ic_add.xml" value="0.1715" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/drawable/ic_three_dot.xml" value="0.1715" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/drawable/rounded_corner.xml" value="0.12" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/drawable/rounded_edittext.xml" value="0.1715" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_about.xml" value="0.176" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_logout.xml" value="0.264" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_profil.xml" value="0.264" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_signin.xml" value="0.2" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_signup.xml" value="0.152" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_splashscreen.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_welcome.xml" value="0.152" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_welcome1.xml" value="0.2" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_welcome2.xml" value="0.24895833333333334" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activity_welcome3.xml" value="0.24895833333333334" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/activty_signin.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/fragment_add_diary.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/fragment_daily.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/fragment_note.xml" value="0.2015625" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/layout/item_daily.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/UAS AKB IF2-10119084/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
